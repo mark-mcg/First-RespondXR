@@ -5,138 +5,314 @@
         {
           "children": [
             {
-              "description": 1,
+              "description": "Police forces may fail to adequately manage resources, including failing to coordinate with other police forces across the UK. This could negatively impact the training available through XR.",
               "id": 3,
-              "name": "a topic",
+              "name": "Poor coordination of police training across UK",
+              "type": "Unused?"
+            },
+            {
+              "description": "Lack of clear guidance on the use of XR: There is no clear guidance stating how, who, when and where XR should be used. Leads to reputational damage",
+              "id": 9,
+              "name": "Lack of guidance",
               "type": "Unused?"
             }
           ],
           "description": "",
           "id": 2,
-          "name": "flowers",
+          "name": "Police training structures in UK",
           "type": "Unused?"
         },
         {
           "children": [
             {
-              "description": 4,
+              "description": "Inadequate/inappropriate action by gov officials: Parliament delay legislating for XR, leaving the technology largely unregulated. ",
               "id": 11,
-              "name": "a topic",
+              "name": "Delay in legislation regulating the use of XR",
+              "type": "Unused?"
+            },
+            {
+              "description": "Inadequate/inappropriate action by gov officials: Parliament enact legislation that severely restricts the use of XR. ",
+              "id": 12,
+              "name": "Legislation that severely curtails the use of XR ",
+              "type": "Unused?"
+            },
+            {
+              "description": "Inadequate/inappropriate action by gov officials: Parliament enacts legislation that is inappropriate/poorly drafted and does not focus on the necessary issues. ",
+              "id": 13,
+              "name": "Inappropriate legislation ",
               "type": "Unused?"
             }
           ],
           "description": "",
           "id": 10,
-          "name": "trees",
+          "name": "Legal and social context around policing training in the UK",
           "type": "Unused?"
         },
         {
           "children": [
             {
-              "description": 7,
-              "id": 17,
-              "name": "a topic",
-              "type": "Unused?"
-            }
-          ],
-          "description": "",
-          "id": 16,
-          "name": "plants",
-          "type": "Unused?"
-        }
-      ],
-      "description": "",
-      "id": 1,
-      "name": "start",
-      "type": "Unused?"
-    },
-    {
-      "children": [
-        {
-          "children": [
-            {
-              "description": 2,
-              "id": 6,
-              "name": "a topic",
-              "type": "Unused?"
-            },
-            {
-              "description": 8,
-              "id": 18,
-              "name": "a topic",
-              "type": "Unused?"
-            }
-          ],
-          "description": "",
-          "id": 5,
-          "name": "trees",
-          "type": "Unused?"
-        },
-        {
-          "children": [
-            {
-              "description": 5,
-              "id": 13,
-              "name": "a topic",
-              "type": "Unused?"
-            }
-          ],
-          "description": "",
-          "id": 12,
-          "name": "plants",
-          "type": "Unused?"
-        }
-      ],
-      "description": "",
-      "id": 4,
-      "name": "middle",
-      "type": "Unused?"
-    },
-    {
-      "children": [
-        {
-          "children": [
-            {
-              "description": 3,
-              "id": 9,
-              "name": "a topic",
-              "type": "Unused?"
-            }
-          ],
-          "description": "",
-          "id": 8,
-          "name": "plants",
-          "type": "Unused?"
-        },
-        {
-          "children": [
-            {
-              "description": 6,
+              "description": "Failure to clarify what purpose of XR training is, what learning outcomes are desired from training.",
               "id": 15,
-              "name": "a topic",
+              "name": "Lack of identified purpose / learning outcomes of training",
               "type": "Unused?"
             },
             {
-              "description": 9,
-              "id": 19,
-              "name": "a topic",
+              "description": "The police force fail to communicate properly with manufacturers of XR; therefore, police needs for XR are not made clear.",
+              "id": 16,
+              "name": "Poor communication b/w police and manufacturers",
               "type": "Unused?"
             }
           ],
           "description": "",
           "id": 14,
-          "name": "flowers",
+          "name": "Internal police processes",
           "type": "Unused?"
         }
       ],
       "description": "",
-      "id": 7,
-      "name": "end",
+      "id": 1,
+      "name": "1 Before the training",
+      "type": "Unused?"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "description": "Failure to follow health and safety regulations leads to harm of XR users ",
+              "id": 6,
+              "name": "Weakness in knowledge and understanding of appropriate health and safety regulations to follow and weakness in will to follow",
+              "type": "Unused?"
+            },
+            {
+              "description": "Plans for training do not account for particular training needs of certain groups - learning disabilities, green/red blindness, average size of women, age, diverse body sizes, physical disability, visual impairments, Internet connectivity.",
+              "id": 7,
+              "name": "Weakness in police processes for developing training",
+              "type": "Unused?"
+            },
+            {
+              "description": "Police force fail to carry out risk assessments necessary for data protection purposes and the public sector equality duty. ",
+              "id": 8,
+              "name": "Weakness in police processes for developing training",
+              "type": "Unused?"
+            },
+            {
+              "description": "The police force fail to communicate properly with developers of XR training; therefore, police risk not properly understanding the technology. ",
+              "id": 22,
+              "name": "Poor communication b/w police and training developers",
+              "type": "Unused?"
+            }
+          ],
+          "description": "",
+          "id": 5,
+          "name": "Internal police processes",
+          "type": "Unused?"
+        },
+        {
+          "children": [
+            {
+              "description": "Trainee that doesn\u2019t engage with training meaningfully or abandons it (e.g. fakes it, gets someone else to do it). For factors like: dislike of change, lack of tech ability",
+              "id": 18,
+              "name": "Possibility of poor engagement by trainee",
+              "type": "Unused?"
+            },
+            {
+              "description": "As XR training becomes increasingly perceptually real, XR training can reach a degree of realism that reactions (psychological, physiological) will be as if the experience was interpreted as real. Experience of these events is likely to be retained and VR has been shown to lead to false memory acquisition. Consequently, VR experiences met the requirements in theory to induce trauma and associated disorders. More acute risk for trainers who participate in training repeatedly. Particular concern: these harms emerge over long timelines. ",
+              "id": 35,
+              "name": "Psychological susceptibility of participants ",
+              "type": "Unused?"
+            },
+            {
+              "description": "Training equipment leads to allergic reaction of trainees",
+              "id": 36,
+              "name": "Physical safety of participants",
+              "type": "Unused?"
+            },
+            {
+              "description": "Training equipment involves chemical hazard for trainees",
+              "id": 37,
+              "name": "Physical safety of participants",
+              "type": "Unused?"
+            },
+            {
+              "description": "Single or recurrent VR training leads to vision or other physical damage (e.g. cognitive damage related to attention) in trainees",
+              "id": 38,
+              "name": "Physical safety of participants",
+              "type": "Unused?"
+            },
+            {
+              "description": "Disabilities that are triggered by XR",
+              "id": 39,
+              "name": "Physical safety of participants",
+              "type": "Unused?"
+            }
+          ],
+          "description": "",
+          "id": 17,
+          "name": "System user",
+          "type": "Unused?"
+        },
+        {
+          "children": [
+            {
+              "description": "Training content may lack content and context-sensitivity for social and ethical issues. For example, training scenarios might not incorporate factors which affect how decisions are made in the real world, like public opinion and behaviour. Public engagement and communication is increasingly recognised as an important part of some police operations, but VR training may lack this kind of engagement.",
+              "id": 24,
+              "name": "Process around training development",
+              "type": "Unused?"
+            },
+            {
+              "description": "Many VR training applications for police incorporate non-playable characters (NPCs) who can act as either civilians or perpetrators which participants in training interact with. These NPCs may be biased representations of marginalised groups leading to bias in police officers who undergo this training.",
+              "id": 25,
+              "name": "Process around training development",
+              "type": "Unused?"
+            },
+            {
+              "description": "Design decision in XR training impede quality of training e.g. AR sidebar in training impedes view of training scenario.",
+              "id": 26,
+              "name": "Process around training development",
+              "type": "Unused?"
+            }
+          ],
+          "description": "",
+          "id": 23,
+          "name": "Training content",
+          "type": "Unused?"
+        },
+        {
+          "children": [
+            {
+              "description": "Excessive data capture during simulation results in unwanted personal data being exposed to the user.",
+              "id": 28,
+              "name": "Excess data collection within the training application",
+              "type": "Unused?"
+            },
+            {
+              "description": "Customizability of scenarios abused for inappropriate (racist, sexist etc.) purposes by trainers and trainees.",
+              "id": 29,
+              "name": "Customizability of training scenario",
+              "type": "Unused?"
+            },
+            {
+              "description": "Uncanny valley: fidelity affects users\u2019 attention, learning capability and behaviour towards virtual human",
+              "id": 30,
+              "name": "Poor fidelity in XR training",
+              "type": "Unused?"
+            },
+            {
+              "description": "Technical failure during training e.g. tracking system fails; battery dies",
+              "id": 40,
+              "name": "Technical  weaknesses",
+              "type": "Unused?"
+            },
+            {
+              "description": "Technical configuration causes physical injury/discomfort in trainee e.g. headset uncomfortable, simulator sickness",
+              "id": 41,
+              "name": "Physical safety of participants",
+              "type": "Unused?"
+            }
+          ],
+          "description": "",
+          "id": 27,
+          "name": "Training system",
+          "type": "Unused?"
+        },
+        {
+          "children": [
+            {
+              "description": "Where VR training is introduced on the basis of trials, who are the participants in the trial? If trial groups are not diverse, risk of harm / disadvantage to underrepresented groups. E.g. only men used in trial. Relevant paper: 'Virtual Reality Is Sexist: But It Does Not Have to Be\" - immediately afer VR exposure, females experienced x2 adverse effect than men. Found that most significant driver of gender difference in cybersickness was interpupillary distance non-fit. Females whose IPD could not be properly fit to the VR headset and had a high motion sickness history suffered the most cybersickness and did not fully recover within 1 h post exposure. A follow-on experiment demonstrated that when females could properly fit their IPD to the VR headset, they experienced cybersickness in a manner similar to males, with high cybersickness immediately upon cessation of VR exposure but recovery within 1 h post exposure.",
+              "id": 34,
+              "name": "Non-diverse trial participants",
+              "type": "Unused?"
+            }
+          ],
+          "description": "",
+          "id": 33,
+          "name": "Development process",
+          "type": "Unused?"
+        },
+        {
+          "children": [
+            {
+              "description": "Police forces / trainers not properly instructed on how to run training by manufacturers. OR trainers don't instruct trainees properly on how to use system. Leading to risk to participants' personal safety.",
+              "id": 47,
+              "name": "Poor communication",
+              "type": "Unused?"
+            }
+          ],
+          "description": "",
+          "id": 46,
+          "name": "How system deployed",
+          "type": "Unused?"
+        }
+      ],
+      "description": "",
+      "id": 4,
+      "name": "2 During the training",
+      "type": "Unused?"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "description": "Data collected in training used to make promotion/hiring decisions",
+              "id": 21,
+              "name": "Lack of process around use of data, incorporating consent, risk assessment, cost-benefit analysis etc.",
+              "type": "Unused?"
+            }
+          ],
+          "description": "",
+          "id": 20,
+          "name": "Internal police processes",
+          "type": "Unused?"
+        },
+        {
+          "children": [
+            {
+              "description": "Data collected in scenario improperly accessed + used by threat actor (terrorist, criminal) to identify + exploit weaknesses in police training, secure data transfer.",
+              "id": 32,
+              "name": "Data collected in XR training system insecure",
+              "type": "Unused?"
+            },
+            {
+              "description": "Inappropriate training content leads to harm to offenders",
+              "id": 42,
+              "name": "Susceptibility of offenders",
+              "type": "Unused?"
+            },
+            {
+              "description": "The training skills learnt through XR do not translate over well to real life scenarios and the public suffer as a result.  E.g. because of trainees 'training to scenario' or instructors failing to properly instruct trainees. This may not be realised if police forces do not conduct post-deployment evaluation.",
+              "id": 43,
+              "name": "Poor learning outcome of training",
+              "type": "Unused?"
+            },
+            {
+              "description": "XR training may be less effective at training participants to deal with ethical dilemma",
+              "id": 44,
+              "name": "XR training ineffective on training ethics",
+              "type": "Unused?"
+            },
+            {
+              "description": "Police responsibilities are involved considerable emotional work. One purpose of VR training that has been delivered to police is to use training to develop empathy in officers. However, limited/mixed results on the ability of VR to improve empathy among users: Virtual Reality Improves Emotional but Not Cognitive Empathy: A Meta-Analysis.",
+              "id": 45,
+              "name": "VR unsuited to generating empathy",
+              "type": "Unused?"
+            }
+          ],
+          "description": "",
+          "id": 31,
+          "name": "Training system",
+          "type": "Unused?"
+        }
+      ],
+      "description": "",
+      "id": 19,
+      "name": "3 After the training",
       "type": "Unused?"
     }
   ],
-  "description": "Root",
+  "description": "Click the nodes to explore our map of identified vulnerabilities in the use of XR for police training.",
   "id": "0",
-  "name": "Root",
+  "name": "First RespondXR",
   "type": "Unused?"
 }

@@ -39,6 +39,14 @@
                 .setTitleDisplayTextAccessor(function(data) {
                     return data.name;
                 })
+				.getNodeSettings()
+					.setSizingMode('nodesize')
+					.setVerticalSpacing(30)				
+					.setHorizontalSpacing(300) // https://d3-mitch-tree.netlify.app/class/js/boxednodesettings.js~boxednodesettings
+					.setBodyBoxHeight(100)
+					.setBodyBoxWidth(250)
+					.setTitleBoxWidth(200)
+					.back()
                 .initialize();
 
 		   })
