@@ -14,96 +14,17 @@
         </section>
 
         <script>
-            var data = {
-                "id": 1,
-                "type": "Root",
-                "description": "Vulnerabilities across the XR training lifecycle",
-                "children": [
-                    {
-                        "id": 2,
-                        "name": "Lifecycle 1",
-                        "type": "Type",
-                        "description": "description",
-                        "children": [
-                            {
-                                "id": 21,
-                                "name": "A vulnerability category",
-                                "type": "Organism",
-                                "description": "description",
-                                "children": 
-								[
-									{
-										"id": 211,
-										"name": "A vulnerability example",
-										"type": "Organism",
-										"description": "description",
-										"children": []
-									},
-									{
-										"id": 222,
-										"name": "A vulnerability example",
-										"type": "Organism",
-										"description": "description",
-										"children": []
-									},
-									{
-										"id": 233,
-										"name": "A vulnerability example",
-										"type": "Organism",
-										"description": "description",
-										"children": []
-									}
-								]
-                            },
-                            {
-                                "id": 22,
-                                "name": "A vulnerability category",
-                                "type": "Organism",
-                                "description": "description",
-                                "children": []
-                            },
-                            {
-                                "id": 23,
-                                "name": "A vulnerability category",
-                                "type": "Organism",
-                                "description": "description",
-                                "children": []
-                            }
-                        ]
-                    },
-					{
-                        "id": 3,
-                        "name": "Lifecycle 2",
-                        "type": "Type",
-                        "description": "description",
-                        "children": []
-                    },
-					{
-                        "id": 4,
-                        "name": "Lifecycle 2",
-                        "type": "Type",
-                        "description": "description",
-                        "children": []
-                    },
-					{
-                        "id": 5,
-                        "name": "Lifecycle 3",
-                        "type": "Type",
-                        "description": "description",
-                        "children": []
-                    },
-					{
-                        "id": 6,
-                        "name": "Lifecycle 4",
-                        "type": "Type",
-                        "description": "description",
-                        "children": []
-                    },
-
-                ]
-            };
-
-            var treePlugin = new d3.mitchTree.boxedTree()
+		
+		function readJson () {
+		   fetch('tree.json')
+		   .then(response => {
+			   if (!response.ok) {
+				   throw new Error("HTTP error " + response.status);
+			   }
+			   return response.json();
+		   })
+		   .then(data => {
+				var treePlugin = new d3.mitchTree.boxedTree()
                 .setData(data)
                 .setElement(document.getElementById("visualisation"))
                 .setIdAccessor(function(data) {
@@ -119,6 +40,14 @@
                     return data.name;
                 })
                 .initialize();
+
+		   })
+		   .catch(function () {
+			   this.dataError = true;
+		   })
+		}
+		
+		readJson();
         </script>
     </body>
 </html>
