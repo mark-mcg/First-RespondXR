@@ -123,26 +123,8 @@
               "type": "Unused?"
             },
             {
-              "description": "Training equipment leads to allergic reaction of trainees",
+              "description": "Single or recurrent XR training exposes users to physical risks during roomscale/worldscale movements due to occlusion, insufficient safety boundaries or reality awareness. The equiment itself also poses risks around vision or other physical damage (e.g. cognitive damage related to attention, allergies, chemical hazards around batteries etc.),  as well as exascerbating situational, temporary or permanent impairments.",
               "id": 36,
-              "name": "Physical safety of participants",
-              "type": "Unused?"
-            },
-            {
-              "description": "Training equipment involves chemical hazard for trainees",
-              "id": 37,
-              "name": "Physical safety of participants",
-              "type": "Unused?"
-            },
-            {
-              "description": "Single or recurrent VR training leads to vision or other physical damage (e.g. cognitive damage related to attention) in trainees",
-              "id": 38,
-              "name": "Physical safety of participants",
-              "type": "Unused?"
-            },
-            {
-              "description": "Disabilities that are triggered by XR",
-              "id": 39,
               "name": "Physical safety of participants",
               "type": "Unused?"
             }
@@ -200,13 +182,13 @@
             },
             {
               "description": "Technical failure during training e.g. tracking system fails; battery dies",
-              "id": 40,
+              "id": 37,
               "name": "Technical  weaknesses",
               "type": "Unused?"
             },
             {
               "description": "Technical configuration causes physical injury/discomfort in trainee e.g. headset uncomfortable, simulator sickness",
-              "id": 41,
+              "id": 38,
               "name": "Physical safety of participants",
               "type": "Unused?"
             }
@@ -234,13 +216,13 @@
           "children": [
             {
               "description": "Police forces / trainers not properly instructed on how to run training by manufacturers. OR trainers don't instruct trainees properly on how to use system. Leading to risk to participants' personal safety.",
-              "id": 47,
+              "id": 44,
               "name": "Poor communication",
               "type": "Unused?"
             }
           ],
           "description": "",
-          "id": 46,
+          "id": 43,
           "name": "How system deployed",
           "type": "Unused?"
         }
@@ -276,25 +258,25 @@
             },
             {
               "description": "Inappropriate training content leads to harm to offenders",
-              "id": 42,
+              "id": 39,
               "name": "Susceptibility of offenders",
               "type": "Unused?"
             },
             {
               "description": "The training skills learnt through XR do not translate over well to real life scenarios and the public suffer as a result.  E.g. because of trainees 'training to scenario' or instructors failing to properly instruct trainees. This may not be realised if police forces do not conduct post-deployment evaluation.",
-              "id": 43,
+              "id": 40,
               "name": "Poor learning outcome of training",
               "type": "Unused?"
             },
             {
               "description": "XR training may be less effective at training participants to deal with ethical dilemma",
-              "id": 44,
+              "id": 41,
               "name": "XR training ineffective on training ethics",
               "type": "Unused?"
             },
             {
               "description": "Police responsibilities are involved considerable emotional work. One purpose of VR training that has been delivered to police is to use training to develop empathy in officers. However, limited/mixed results on the ability of VR to improve empathy among users: Virtual Reality Improves Emotional but Not Cognitive Empathy: A Meta-Analysis.",
-              "id": 45,
+              "id": 42,
               "name": "VR unsuited to generating empathy",
               "type": "Unused?"
             }

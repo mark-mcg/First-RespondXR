@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# First RespondXR: A SPRITE+ Project
+## Digital vulnerability of immersive training for first responders​
+This repository contains our open map of the vulnerabilities exposed by police adoption of XR training, which can be seen by clicking [here](https://mark-mcg.github.io/First-RespondXR/).
 
-You can use the [editor on GitHub](https://github.com/mark-mcg/First-RespondXR/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+For further information, see:
+ - [The project blog page on SPRITE+](https://spritehub.org/2021/08/20/first-respondxr-digital-vulnerability-of-immersive-training-for-first-responders/)
+ - [Our webinar resources discussing vulnerabilities in XR training](https://spritehub.org/2022/05/23/sprite-funded-project-creates-resources-on-xr-technology/)
+ - [Our legal blogpost on how existing legislation applies to XR training vulnerabilities](https://ials.blogs.sas.ac.uk/2022/05/17/extended-reality-and-first-responder-training-law-policing-and-good-guidance/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mark-mcg/First-RespondXR/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Produced by the research team: Leonie Tanczer (UCL), David McIlhatton (Coventry), Jill Marshall (Royal Holloway), Mark McGill (Glasgow), Lena Podoletz (Edinburgh), Niamh Healy (UCL) and Marina Heilbrunn (UCL).

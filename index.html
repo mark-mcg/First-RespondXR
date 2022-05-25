@@ -8,11 +8,44 @@
         <script src="https://cdn.jsdelivr.net/gh/deltoss/d3-mitch-tree@1.0.2/dist/js/d3-mitch-tree.min.js"></script>
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/deltoss/d3-mitch-tree@1.0.2/dist/css/d3-mitch-tree.min.css">
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/deltoss/d3-mitch-tree@1.0.2/dist/css/d3-mitch-tree-theme-default.min.css">
+		<style>
+		.information
+			{
+			   display: block;
+			   float: left;
+			   cursor: pointer;
+			   z-index: 1000;
+			   position: absolute;
+			   left: 0;
+			   top: 0;
+			   background-color: steelblue;
+			   height: 70px;
+			   width: 220px;
+			   font-family: Arial, Helvetica, sans-serif;
+			   margin: 5px;
+			   padding: 10px;
+			   text-align: center;
+			   font-size: 12px;
+			   color: white;
+			   rx: 10;
+			   ry: 10;
+			   border-radius: 10px;
+			}
+			
+			#visualisation {
+				position: relative;
+				max-width: 1200px;
+			}
+		</style>
     </head>
     <body>
         <section id="visualisation">
         </section>
 
+		<div class="information">
+			<b>First RespondXR SPRITE+ Digital Vulnerabilities in XR Training Map</b></br></br>
+			See <a href="https://spritehub.org/2021/08/20/first-respondxr-digital-vulnerability-of-immersive-training-for-first-responders/">spritehub.org</a> for more information. Rendered using <a href="https://github.com/deltoss/d3-mitch-tree">d3-mitch-tree</a>.
+		</div>
         <script>
 		
 		function readJson () {
